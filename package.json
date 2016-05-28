@@ -9,6 +9,7 @@
   "author": "Candra Dwi Waskito",
   "license": "ISC",
   "dependencies": {
+    "bootstrap": "^4.0.0-alpha.2",
     "bootstrap-sass": "^3.3.6"
   }
 }
