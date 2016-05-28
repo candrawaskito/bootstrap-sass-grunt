@@ -1,0 +1,14 @@
+{
+  "name": "core-bs",
+  "version": "1.0.0",
+  "description": "Core base for Bootstrap Grunt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Candra Dwi Waskito",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap-sass": "^3.3.6"
+  }
+}
